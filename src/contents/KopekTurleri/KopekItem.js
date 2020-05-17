@@ -40,7 +40,7 @@ export const KopekItem = ({ kopek }) => {
      </CardContent>
     </CardActionArea>
     <CardActions style={{ justifyContent: "center" }}>
-     <Button variant="outlined" onClick={handleOpen} className={classes.root}>
+     <Button color="primary" variant="outlined" onClick={handleOpen} className={classes.root}>
       Devamını Oku
      </Button>
     </CardActions>

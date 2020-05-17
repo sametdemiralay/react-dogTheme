@@ -18,10 +18,9 @@ export const useStyles = makeStyles(theme=>({
  root: {
   borderWidth: 1,
   borderRadius: 3,
-  color: "#FFF",
-  borderColor: "#FFF",
-  height: 40,
-  padding: "0 30px",
+  height: 30,
+  padding: "0 20px",
+  background: "#FFF"
  },
  paper: {
    position: "absolute",
@@ -29,7 +28,6 @@ export const useStyles = makeStyles(theme=>({
   backgroundColor: "#FFF",
   border: '5px solid #537895',
   padding: "1rem",
-  borderRadius: "3rem"
 },
 paperTitle:{
   color: "#09203F",

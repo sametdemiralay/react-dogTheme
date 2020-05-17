@@ -53,7 +53,7 @@ export const data = [
   isim: "Fransız Bulldog",
   onBilgi:
    "Amerikan ve İngiliz Bulldog cinsleri ile kıyaslandığında daha küçük boyutlara sahip olan Fransız Bulldog, sanıldığının aksine Fransa değil İngiltere menşeli bir ırktır. Çok fazla egzersiz ihtiyacı duymayan ve dik kulakları ile çevrede olup bitenlere karşı tetikte olan bu cins genellikle kolay bir şekilde eğitilebilir. Yine de inatçı bir yapısı ve özgür bir ruhu olduğunun da unutulmaması gerekir. Salya akıtma eğilimi olan bu ırk çok fazla havlamaz. Apartman hayatına çok iyi uyum sağlamaları günümüzde aileler tarafından tercih edilme sıklıklarını arttırmıştır. Çocuklarla araları çok iyidir ve onların sevgi dolu bir kalbi olduğu söylenebilir. Söz konusu çekirdek aileleri olduğunda dünyaları değişir. Çok sadıktırlar ve sahipleri ile birlikte oyun oynamaya bayılırlar. Siyah, beyaz, mavi ve kahverengi gibi çeşitli renklere sahip olabilen bu ırkın küçüklükten itibaren sosyalleştirilmesi önemlidir. İyi yüzemezler bu nedenle derin sulara yakın yerlerde kesinlikle yalnız bırakılmamaları önerilmektedir. Genetik olarak eklem ve kalp rahatsızlıklarına yatkın oldukları için beslenme ve egzersiz düzenleri doğru kurgulanmalıdır.",
-  foto: "https://tinyurl.com/ybenbveo",
+  foto: "https://tinyurl.com/ycwa9jwe",
  },
  {
   id: "9",
@@ -81,6 +81,6 @@ export const data = [
   isim: "Kangal",
   onBilgi:
    "“Sivas kangal”, “Anadolu çoban köpeği” ve “karabaş” gibi farklı şekillerde adlandırılan kangal; dünya üzerindeki en sadık, en korumacı, en bağımsız ve en dikkat çekici ırkların başından gelmektedir. Açık sarı, boz, kahverengi, kirli beyaz gibi farklı renklerde olabilir; ağız, göz kenarları, kulak bölgesinin çevresi ve burun siyah renktedir. Sürü köpekleri arasında özel bir yere sahip olan bu köklü cins, kendi başlarının çaresine bakmayı bilir. Apartman hayatı onlar için kesinlikle uygun değildir. Menşei Türkiye’dir ve dünya çapında bir popülerliğe sahip oldukları net bir şekilde ifade edilebilir. Ailesine karşı büyük bir bağlılık duyan bu devasa köpekler mükemmel bekçilerdir. Ağırbaşlı ve ciddi bir yapıları vardır, diğer hayvanlara ve yabancılara karşı tolerans gösterdiklerine rastlamak çok mümkün olmaz. Büyük ırka mensup bu dostlarımız ilk olarak binlerce yıl önce görülmüştür. Eğitimi zordur ancak iyi bir eğitimden geçirilebildiklerinde ve yavruluk döneminden itibaren sosyalleştirildiklerinde kontrol altına alınabilmeleri kolaylaşır. Hatta çocuklarla da aralarında sıcak bir ilişki kurulabildiği, çocukların istemsizce yaptıkları sert hareketleri dahi tolere edebildikleri bilinmektedir.",
-  foto: "https://tinyurl.com/yceaa4mo",
+  foto: "https://tinyurl.com/yapg2av2",
  },
 ];

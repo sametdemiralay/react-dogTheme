@@ -15,7 +15,7 @@ export const Header = ({classes}) => {
    <br />
    <Typography className={classes.subTitle} variant="h4">
     <Typed
-     strings={["Web Design", "Web Development", "MERN Stack"]}
+     strings={["AnaSayfa", "Köpek Türleri", "İletişim"]}
      typeSpeed={40}
      backSpeed={60}
      loop
